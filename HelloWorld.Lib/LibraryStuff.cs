@@ -8,5 +8,10 @@ namespace HelloWorld.Lib
         {
             return "dotnet watch follows project references";
         }
+
+        public static int Add(int x, int y)
+        {
+            return 5;
+        }
     }
 }
